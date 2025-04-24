@@ -1,5 +1,5 @@
 # Welcome to your Expo app 👋
-
+You can dowload the APK file using this link : https://expo.dev/accounts/hazrulexpo/projects/news/builds/186c67ed-c6b2-45fe-9e7d-219f4f92c9d4
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
